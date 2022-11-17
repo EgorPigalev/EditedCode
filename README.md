@@ -31,4 +31,4 @@ Visual Studio 2022 (последняя версия) поддерживаетс�
 ![logo](https://github.com/EgorPigalev/EditedCode/blob/master/Progrqam/Image/launch%20program.pnghttps://github.com/EgorPigalev/EditedCode/blob/master/Progrqam/Image/launch%20program.png)
 ## Авторы
 Автором данной работы является
-* **Billie Thompson** - [PurpleBooth](https://github.com/EgorPigalev)
+* **Пигалев Егор** - [PigalevEgor](https://github.com/EgorPigalev)
