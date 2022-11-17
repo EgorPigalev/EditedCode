@@ -25,15 +25,13 @@ Visual Studio 2022 (последняя версия) поддерживаетс�
 + Windows Server 2016: Standard и Datacenter.
 ### Установка
 Для установки данного программного обеспечения необходимо необходимо проделать следующие действия:
-1. Открыть репозиторий и скачать архивный файл проекта.
-
-
+1. Взять скаченую архивную копию программы.
 2. Разархивировать архив.
 
 ![logo](https://github.com/EgorPigalev/EditedCode/blob/master/Progrqam/Image/unzipping.png)
 3. Запустить проект спомощью программы Microsoft Visual Studio.
 
-![logo](https://github.com/EgorPigalev/EditedCode/blob/master/Progrqam/Image/launch%20program.pnghttps://github.com/EgorPigalev/EditedCode/blob/master/Progrqam/Image/launch%20program.png)
+![logo](https://github.com/EgorPigalev/EditedCode/blob/master/Progrqam/Image/launch%20program.png)
 ## Авторы
 Люди которые принимали участие в разработке проекта:
 * **Пигалев Егор** - [PigalevEgor](https://github.com/EgorPigalev)
