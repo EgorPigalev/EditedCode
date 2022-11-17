@@ -21,5 +21,14 @@ Visual Studio 2022 (последняя версия) поддерживаетс�
 ### Установка
 Для установки данного программного обеспечения необходимо необходимо проделать следующие действия:
 1. Открыть репозиторий и скачать архивный файл проекта.
-![]()
-2. 
+
+![logo](https://github.com/EgorPigalev/EditedCode/blob/master/Progrqam/Image/download%20location.png)
+2. Разархивировать архив.
+
+![logo](https://github.com/EgorPigalev/EditedCode/blob/master/Progrqam/Image/unzipping.png)
+3. Запустить проект спомощью программы Microsoft Visual Studio.
+
+![logo](https://github.com/EgorPigalev/EditedCode/blob/master/Progrqam/Image/launch%20program.pnghttps://github.com/EgorPigalev/EditedCode/blob/master/Progrqam/Image/launch%20program.png)
+## Авторы
+Автором данной работы является
+* **Billie Thompson** - [PurpleBooth](https://github.com/EgorPigalev)
